@@ -6,6 +6,11 @@ public class Class01 {
         System.out.println("yeni deneme");
         System.out.println("yeni degisiklik");
 
+        System.out.println("bugun hava gunesli");
+
+        System.out.println("bugun hava yagisli");
+
+
 
 
 
